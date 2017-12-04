@@ -50,5 +50,11 @@ Page({
       userInfo: e.detail.userInfo,
       hasUserInfo: true
     })
+  },
+  onShareAppMessage:function(){
+    return {
+      title:'test',
+      path:'/pages/index'
+    }
   }
 })
