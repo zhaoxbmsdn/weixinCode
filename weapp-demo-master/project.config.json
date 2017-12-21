@@ -1,0 +1,10 @@
+{
+	"client": "dist",
+	"setting": {
+		"urlCheck": true,
+		"newFeature": true
+	},
+	"appid": "wxd115e804a708983e",
+	"projectname": "%E8%B1%86%E7%93%A3",
+	"condition": {}
+}
